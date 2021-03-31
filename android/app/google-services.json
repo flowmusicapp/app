@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "139722804465",
+    "project_id": "flow-app-41981",
+    "storage_bucket": "flow-app-41981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139722804465:android:08900c6b02f1e190662d50",
+        "android_client_info": {
+          "package_name": "com.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139722804465-jklj5bgal3rk6dp9gl105ib0563t3ags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQQ5GsiazQpCmpYmpASxzAplh_9Sld-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139722804465-jklj5bgal3rk6dp9gl105ib0563t3ags.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139722804465-u9bs8uo0ff47l0q4dkd88npu1ruv56rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MusicPlayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
